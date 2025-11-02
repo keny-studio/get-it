@@ -1,9 +1,10 @@
 # get-it
-get IT - Glossary for fully-fullstack life winners
+$${\color{gold}get \space IT \space - \space Glossary \space for \space fully-fullstack \space life \space winners}$$
 
 https://keny.studio/glossary/
 
-IT, graphic, business, productivity and other broadly defined<br><br>$${\color{gold} TERMS \space FOR \space\ FULLY-FULLSTACK \space LIFE \space WINNERS}$$
+IT, graphic, business, productivity and other broadly defined<br>
+terms for fully-fullstack life winners
 
 <ul>
   <li>Getting closures closer...</li>

@@ -1,5 +1,5 @@
 # get-it
-## $${\color{red}get \space IT \space - \space Glossary \space for \space fully-fullstack \space life \space winners}$$
+## $${\color{red}get \space IT}$$ -Glossary for fully-fullstack life winners
 
 </br>
 
